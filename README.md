@@ -15,7 +15,7 @@
 🔹 Customer Churn Analysis  
 - Python, EDA  
 - Identified churn patterns in 7000+ records  
-👉 [View Project]([https://github.com/DineshReddy2624/DataScience-Projects](https://github.com/DineshReddy2624/DataScience-Projects/tree/main/EDA/Customer-Churn-analysis-main))
+👉 [View Project](https://github.com/DineshReddy2624/DataScience-Projects/tree/main/EDA/Customer-Churn-analysis-main)
 
 🔹 Power BI Dashboard  
 - KPI tracking, business insights  
