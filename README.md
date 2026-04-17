@@ -19,7 +19,7 @@
 
 🔹 Power BI Dashboard  
 - KPI tracking, business insights  
-👉 [View Project](https://github.com/DineshReddy2624)
+👉 [View Project](https://github.com/DineshReddy2624/DataScience-Projects/tree/main/Power%20BI/LEGO)
 
 🔹 SQL Analysis  
 - Complex queries, trend analysis  
